@@ -1,0 +1,5 @@
+Take a Walk in the Commons: Open Source and the Liberal Arts
+
+As educators in the liberal arts, we  try to prepare our students for a lifetime of learning. When we introduce our students to open communities as part of their classroom experience, we provide them with an opportunity to engage with the world around them and help solve real problems for real people. Participation in open communities as part of the undergraduate experience provides ways of developing and practicing communication, teamwork, and leadership skills---and contrary to popular belief, sometimes the most valuable contributions are the nontechnical ones.
+
+In this talk, we'll explore the wide range of opportunities for students to get involved in open source and open communities, with examples, case studies, and concrete next steps you can take as an educator or student to bring these opportunties into your classrooms and projects. Regardless of whether your interests are intellectual property law, computing in the sciecnes, enabling government transparency, language learning, or something else entirely, there's an open community waiting for students to contribute and make a difference.
