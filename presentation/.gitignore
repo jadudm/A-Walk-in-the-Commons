@@ -1,3 +1,14 @@
+# Editor noise
 *~
 *.swp
+
+# The output
 a-walk-in-the-commons.pdf
+
+# Noise from LaTeX
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
