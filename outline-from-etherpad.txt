@@ -2,13 +2,6 @@ Take a Walk in the Commons: Open Source and the Liberal Arts
 
 Matt Jadud (Allegheny College) and Mel Chua (Purdue University)
 
-Context: 1500 students
-No computing.
-Interested faculty: Physics/Chemistry (Scientific Computing)
-Poli Sci/History: CC licensing, tracking world events via web trends (Wikipedia has interesting publications) etc.
-Duration: Assume 1 hour talk, 45 minutes, 15-20 for questions, or we talk less and discuss more. (+ meetings with individuals who are keen)
-Background knowledge: Some. (Firefox is open. Wiki is open.)
-
 * What is open / what are open communities?
 ** What's open source/content?
 ** some projects you may have heard of (Firefox, Wikipedia, etc)
